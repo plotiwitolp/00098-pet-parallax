@@ -9,4 +9,4 @@
 ## Демо
 
 Посмотреть рабочую демо-версию можно по ссылке:  
-<a href="https://plotiwitolp.github.io/00098-pet-parallax/" target="_blank">Открыть Pet Parallax</a>
+<a href="https://plotiwitolp.github.io/pet-parallax/" target="_blank">Открыть Pet Parallax</a>
